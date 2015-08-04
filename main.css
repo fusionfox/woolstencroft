@@ -1,6 +1,15 @@
+html { 
+  height: 100%; /* Fix for Firefox */
+}
+
+body {
+  background: linear-gradient(#29323c, #485563);
+}
+
 p {
   font-family: 'Open Sans', sans-serif;
   font-size: 28px;
+  color: white;
   margin: 80px;
   line-height: 1.5;
 }
