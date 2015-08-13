@@ -43,7 +43,21 @@ p {
   }
 }
 
+@-webkit-keyframes fadeInDown {
+  from {
+    opacity: 0;
+    -webkit-transform: translate(0, -100%);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+  }
+}
+
 .fadeInDown {
-  animation-name: fadeInDown;
+  animation: fadeInDown;
+  -webkit-animation: fadeInDown;
   animation-duration: 1s;
+  -webkit-animation-duration: 1s;
 }
