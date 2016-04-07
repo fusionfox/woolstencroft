@@ -1,25 +1,26 @@
+==================================================================
 https://keybase.io/fusionfox
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of https://www.woolstencroft.co.uk
+  * I am an admin of https://woolstencroft.co.uk
   * I am fusionfox (https://keybase.io/fusionfox) on keybase.
-  * I have a public key ASB7IVGcRw4K2cLF3RuBoNa1-zkrvvLgbmiOLEO2TcJVAAo
+  * I have a public key ASCiCD5w2aCkk1W0dEpCrnnS2YUhJVSyUTu12oRvs3r2YAo
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "01207b21519c470e0ad9c2c5dd1b81a0d6b5fb392bbef2e06e688e2c43b64dc255000a",
+            "eldest_kid": "0120a2083e70d9a0a49355b4744a42ae79d2d985212554b2513bb5da846fb37af6600a",
             "host": "keybase.io",
-            "kid": "01207b21519c470e0ad9c2c5dd1b81a0d6b5fb392bbef2e06e688e2c43b64dc255000a",
+            "kid": "0120a2083e70d9a0a49355b4744a42ae79d2d985212554b2513bb5da846fb37af6600a",
             "uid": "4bd655630aaac14f84714172ee0dbf19",
             "username": "fusionfox"
         },
         "service": {
-            "hostname": "www.woolstencroft.co.uk",
+            "hostname": "woolstencroft.co.uk",
             "protocol": "https:"
         },
         "type": "web_service_binding",
@@ -29,23 +30,25 @@ To do so, I am signing this object:
         "name": "keybase.io go client",
         "version": "1.0.14"
     },
-    "ctime": 1458133797,
+    "ctime": 1460032678,
     "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1458133776,
-        "hash": "38c54ca29f55c6c19945d40397d82d2858f9d238edab42496bbb51ceee8569f5b8f402f273168ac6aa4005f9223c870da775ea80c512c4c0154f7186591e5aea",
-        "seqno": 408721
+        "ctime": 1460032611,
+        "hash": "ed7f46d1938abbe5c5eaf5ed869dea55b838cfc07ac0e7dafc64a35d2731be0d61d918e2afb39739d87ae68df3c8ec8cf69b469696389e5e9ab30e56a3f363a3",
+        "seqno": 433985
     },
-    "prev": "dbe6197790171f0d3f07ff80c50637f93c9206ebc65737d3a74995933be7fb45",
-    "seqno": 10,
+    "prev": "b5987ae0e8282b1d90b8e9c1640eb6b513cff2afe40791f4cb6930c431d516d9",
+    "seqno": 19,
     "tag": "signature"
 }
 
 which yields the signature:
 
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeyFRnEcOCtnCxd0bgaDWtfs5K77y4G5ojixDtk3CVQAKp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2IyMTUxOWM0NzBlMGFkOWMyYzVkZDFiODFhMGQ2YjVmYjM5MmJiZWYyZTA2ZTY4OGUyYzQzYjY0ZGMyNTUwMDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2IyMTUxOWM0NzBlMGFkOWMyYzVkZDFiODFhMGQ2YjVmYjM5MmJiZWYyZTA2ZTY4OGUyYzQzYjY0ZGMyNTUwMDBhIiwidWlkIjoiNGJkNjU1NjMwYWFhYzE0Zjg0NzE0MTcyZWUwZGJmMTkiLCJ1c2VybmFtZSI6ImZ1c2lvbmZveCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3Lndvb2xzdGVuY3JvZnQuY28udWsiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ1ODEzMzc5NywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU4MTMzNzc2LCJoYXNoIjoiMzhjNTRjYTI5ZjU1YzZjMTk5NDVkNDAzOTdkODJkMjg1OGY5ZDIzOGVkYWI0MjQ5NmJiYjUxY2VlZTg1NjlmNWI4ZjQwMmYyNzMxNjhhYzZhYTQwMDVmOTIyM2M4NzBkYTc3NWVhODBjNTEyYzRjMDE1NGY3MTg2NTkxZTVhZWEiLCJzZXFubyI6NDA4NzIxfSwicHJldiI6ImRiZTYxOTc3OTAxNzFmMGQzZjA3ZmY4MGM1MDYzN2Y5M2M5MjA2ZWJjNjU3MzdkM2E3NDk5NTkzM2JlN2ZiNDUiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAYmK1rNtWNbF9H+YBCEJFyzpTKLVlcwaKgp/kX++uNvGPdko1ZcEYMdxGmEWKrq4AvW+Vg1wdgCjZ8tXWOlhECKhzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgogg+cNmgpJNVtHRKQq550tmFISVUslE7tdqEb7N69mAKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTIwODNlNzBkOWEwYTQ5MzU1YjQ3NDRhNDJhZTc5ZDJkOTg1MjEyNTU0YjI1MTNiYjVkYTg0NmZiMzdhZjY2MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTIwODNlNzBkOWEwYTQ5MzU1YjQ3NDRhNDJhZTc5ZDJkOTg1MjEyNTU0YjI1MTNiYjVkYTg0NmZiMzdhZjY2MDBhIiwidWlkIjoiNGJkNjU1NjMwYWFhYzE0Zjg0NzE0MTcyZWUwZGJmMTkiLCJ1c2VybmFtZSI6ImZ1c2lvbmZveCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid29vbHN0ZW5jcm9mdC5jby51ayIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE0In0sImN0aW1lIjoxNDYwMDMyNjc4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0NjAwMzI2MTEsImhhc2giOiJlZDdmNDZkMTkzOGFiYmU1YzVlYWY1ZWQ4NjlkZWE1NWI4MzhjZmMwN2FjMGU3ZGFmYzY0YTM1ZDI3MzFiZTBkNjFkOTE4ZTJhZmIzOTczOWQ4N2FlNjhkZjNjOGVjOGNmNjliNDY5Njk2Mzg5ZTVlOWFiMzBlNTZhM2YzNjNhMyIsInNlcW5vIjo0MzM5ODV9LCJwcmV2IjoiYjU5ODdhZTBlODI4MmIxZDkwYjhlOWMxNjQwZWI2YjUxM2NmZjJhZmU0MDc5MWY0Y2I2OTMwYzQzMWQ1MTZkOSIsInNlcW5vIjoxOSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDSsOoXrPxd0kMnTp2Q0PEL2p41xRQ8ZiA1C/QmXnAJOIFpM72ai2cR0spv++m8cX5D9VA0DF1Dwa1pojxOfIEIqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/fusionfox
+
+==================================================================
